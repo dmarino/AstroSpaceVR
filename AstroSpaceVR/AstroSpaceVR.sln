@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstroSpaceVR", "Assembly-CSharp.csproj", "{C9A8AAC8-6130-C348-48C4-FE34F9B05897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstroSpaceVR", "Assembly-CSharp-Editor.csproj", "{D04A70B7-46B0-D91E-2051-878DB4CC1E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9A8AAC8-6130-C348-48C4-FE34F9B05897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A8AAC8-6130-C348-48C4-FE34F9B05897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A8AAC8-6130-C348-48C4-FE34F9B05897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A8AAC8-6130-C348-48C4-FE34F9B05897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04A70B7-46B0-D91E-2051-878DB4CC1E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04A70B7-46B0-D91E-2051-878DB4CC1E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04A70B7-46B0-D91E-2051-878DB4CC1E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04A70B7-46B0-D91E-2051-878DB4CC1E12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

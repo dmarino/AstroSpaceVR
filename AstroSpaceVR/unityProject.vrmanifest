@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.astrospacevr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\VR\\AstroSpaceVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "AstroSpaceVR [Testing]"
+        }
+      }
+    }
+  ]
+}
